@@ -10,7 +10,7 @@
 
 ### What technologies is this framework built in?
 
-> See [the wiki page](https://github.tools.tax.service.gov.uk/ankit-singhal/api-integration-test-runner/wiki/Project-Dependencies) for the dependencies of this project.
+> See [the wiki page](https://github.com/hmrc/api-integration-test-runner/wiki/Project-Dependencies) for the dependencies of this project.
 
 ### What types of API can this framework test?
 
@@ -22,11 +22,11 @@
 
 ### How somebody would use this framework?
 
-> See [the getting started page](https://github.tools.tax.service.gov.uk/ankit-singhal/api-integration-test-runner/wiki/Getting-Started) for this project.
+> See [the getting started page](https://github.com/hmrc/api-integration-test-runner/wiki/Getting-Started) for this project.
 
 ### Where I will find the documentation of this framework?
 
-> The documentation of this framework can be found on [the project wiki](https://github.tools.tax.service.gov.uk/ankit-singhal/api-integration-test-runner/wiki).
+> The documentation of this framework can be found on [the project wiki](https://github.com/hmrc/api-integration-test-runner/wiki).
 
 
 ### License
